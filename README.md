@@ -6,6 +6,7 @@ EXE > https://drive.google.com/file/d/10n8U4pc4VW7kio81UdOGCgwILJ-gbJNF/view?usp
 
 ![image](https://github.com/user-attachments/assets/cb113159-4c46-4652-b13d-245258324258)
 
+o exemplo que você precisava de como utilizar a biblioteca pyftp
 veja aqui como criar você pode acessar do file zilla no computador https://filezilla-project.org/download.php?type=client inclusive recomendo por parte de celular é possível você pode procurar na sua loja de aplicativos do celular algum cliente ftp .
 Após abrir o aplicativo xariza
 ![image](https://github.com/user-attachments/assets/cb113159-4c46-4652-b13d-245258324258)
